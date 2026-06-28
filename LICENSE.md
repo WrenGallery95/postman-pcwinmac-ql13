@@ -1,4 +1,4 @@
-# 
+# Exclusivo Postman fluxo de trabalho para Mac OS | Seguro Postman fluxo de trabalho para PC Windows. Com revisão de código e monitoramento de API — otimizado para máximo desempenho em cada plataforma.
 
 
 
